@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <data name="Lavender" xml:space="preserve">
+    <value>#E6E6FA</value>
+  </data>
+  <data name="PalePink" xml:space="preserve">
+    <value>#FADADD</value>
+  </data>
+  <data name="Cream" xml:space="preserve">
+    <value>#FFFDD0</value>
+  </data>
+  <data name="Lilac" xml:space="preserve">
+    <value>#C8A2C8</value>
+  </data>
+</root>
